@@ -9,7 +9,7 @@ ESECUZIONE
 Creare programma che stampi numeri da 1 a 100
     -SE sono multipli di 3, stampo Fizz
     -SE sono multipli di 5, stampo Buzz 
+    -SE sono multipli sia di 3 che di 5, stampo FizzBuzz
 
-ALTRIMENTI 
--stampo FizzBuzz
+
 
